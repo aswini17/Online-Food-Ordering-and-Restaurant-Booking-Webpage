@@ -1,0 +1,58 @@
+
+body{
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url(login.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+    height: 150px;
+    width: 150px;
+    float: left;
+}
+h2{
+    text-align: center;
+}
+input[type=text], input[type=password] {
+    background-color: #FAD586;
+    padding: 6px 0px;
+    box-sizing: border-box;
+    position: relative;
+    text-align: center;
+    left: 39.5%;
+    top:100%;
+  }
+.container{
+	padding: 10px 20px;
+    width: 100px;
+    position: relative;
+    left: 41%;
+	color:#EEB76B;
+}
+.box{
+    font-weight: 700;
+    font-size:20px;
+	text-align:right;
+	color:white;
+	padding: 0px 100px;
+}
+.checkbox{
+    font-size:11px;
+}
+marquee{
+    background-color: rgb(255,255,255);
+    height: 30px;
+    color: #EEB76B;
+    padding-top: 10px;
+    font-weight: 500;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
+button {
+    background-color: #EEB76B;
+    color: white;
+    padding: 10px 10px;
+    width: 80px;
+  }
+
+

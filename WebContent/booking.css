@@ -1,0 +1,70 @@
+
+body{
+    background-image: url(bookingi.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+    height: 150px;
+    width: 150px;
+    float: left;
+}
+h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+button {
+    background-color: red;
+    color: white;
+    padding: 14px 20px;
+    margin: 0 0;
+    border: none;
+    cursor: pointer;
+    width: 150px;
+    position: relative;
+    left: 50%;
+  }
+
+.box{
+        background-color: rgb(233, 230, 230);
+        width: 600px;
+        border: 1px solid rgb(2, 2, 2);
+        padding: 20px;
+        margin: 20px;
+        border-radius: 20px;
+        position: absolute; 
+        left: 25%;
+        top: 30%; 
+}
+
+
+.names {
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    white-space: nowrap;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .name {
+    display: inline-block;
+    color: rgb(33, 11, 68);
+    text-align: center;
+    width: 100px;
+    padding: 10px 80px;
+    font-weight: 300;
+    font-size: x-large;
+    text-decoration: none;
+  }
+  
+  .name:hover {
+    background-color: rgb(217, 218, 217);
+  }
