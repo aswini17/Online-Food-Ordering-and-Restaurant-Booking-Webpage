@@ -87,7 +87,7 @@
 </head>
 <body>
 
-<script src='https://cdn.rawgit.com/Siddharth11/gradStop.js/master/gradstop.js'></script>
+
 
   
 
